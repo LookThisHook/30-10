@@ -1,0 +1,32 @@
+html {
+     
+        width: 25vw;
+        margin: 0 auto ;
+
+}
+.logo {text-align: center;}
+
+header >div> p {color:#107777;
+   }
+
+.pvideo {
+    text-align: center; color: rgb(99, 96, 96);
+}
+.cc {color: #7CD5D5;}
+.arancio {color: rgb(255, 172, 77);}
+
+
+
+
+div>p{ font-weight:bold;}
+
+.lineaColorata {
+    border: none; 
+    height: 0.5px; 
+    background-color:#7CD5D5 ; 
+  }
+  
+ 
+  #grassetto {
+    font-weight: bold; 
+  }
